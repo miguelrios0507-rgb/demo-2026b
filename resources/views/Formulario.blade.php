@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>Formulario horoscopo</h1>
-    <form action="Recibir-formulario" method="post">
     <br>
     <div class="mb-3">
         <label for="Nombre" class="form-label">Nombre</label>

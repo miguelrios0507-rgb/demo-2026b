@@ -11,6 +11,6 @@ Route::get('/Formulario', function () {
     return view('Formulario');
 });
 
-Route::post('/Recibe-formulario', function (Request $request) {
+Route::post('/Recibir-formulario', function (Request $request) {
     return $request->all();
 });
