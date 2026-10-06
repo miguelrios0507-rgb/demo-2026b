@@ -9,10 +9,11 @@
 <body>
     <h1>Formulario horoscopo</h1>
     <form action="Recibir-formulario" method="post">
+        @csrf
     <br>
     <div class="mb-3">
-        <label for="Nombre" class="form-label">Nombre</label>
-        <input type="text" class="form-control" id="Nombre" name="Nombre">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" name="nombre">
     </div>
 
     <br>
