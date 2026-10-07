@@ -26,6 +26,7 @@
                     <td>{{ $registro->telefono }}</td>
                 </tr>
             @endforeach
-        </tbody>
-</body>
+         </tbody>
+      </table>
+  </body>
 </html>

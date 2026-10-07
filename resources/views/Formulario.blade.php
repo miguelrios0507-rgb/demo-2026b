@@ -18,20 +18,20 @@
 
     <br>
     <div class="mb-3">
-        <label for="Fecha" class="form-label">Fecha</label>
-        <input type="date" class="form-control" id="Fecha" name="Fecha">
+        <label for="fecha_nacimiento" class="form-label">Fecha de nacimiento</label>
+        <input type="date" class="form-control" id="fecha_nacimiento" name="fecha_nacimiento">
     </div>
 
     <br>
     <div class="mb-3">
-        <label for="Correo" class="form-label">Correo</label>
-        <input type="email" class="form-control" id="Correo" name="Correo">
+        <label for="correo" class="form-label">Correo</label>
+        <input type="email" class="form-control" id="correo" name="correo">
     </div>
 
     <br>
     <div class="mb-3">
-        <label for="Telefono" class="form-label">Telefono</label>
-        <input type="text" class="form-control" id="Telefono" name="Telefono">
+        <label for="telefono" class="form-label">Telefono</label>
+        <input type="text" class="form-control" id="telefono" name="telefono">
     </div>
 
     <br>
